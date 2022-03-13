@@ -9,11 +9,26 @@
 ## demo.pitaya / demo.otne / demo.tbox
 
 ```
-import pitaya.console;
+import stdio;
 func main (){
   printf("Hello World");
 }
 ```
+
+
+## 转换程序给转成C语言源码
+```
+#include <stdio.h>
+void func(){
+  printf("Hello World");
+}
+int main()
+{
+    func();
+    return 0;
+}
+```
+
 
 ## 火龙果编译器，编译成可执行程序文件
 
