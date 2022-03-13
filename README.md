@@ -5,6 +5,11 @@
 
 支持 Otne 语法、Tbox 语法、Pitaya 语法
 
+[x] Lexer
+
+[x] Compier
+
+
 ## demo.pitaya / demo.otne / demo.tbox
 
 ```ts
