@@ -22,7 +22,7 @@ void func(){
 }
 int main()
 {
-   func();
+    func();
     return 0;
 }
 ```
