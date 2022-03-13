@@ -9,7 +9,7 @@
 
 ```ts
 import stdio;
-func main (){
+func main () {
     printf("Hello World");
 }
 ```
@@ -17,11 +17,10 @@ func main (){
 ## 转换程序给转成C语言源码
 ```c
 #include <stdio.h>
-void func(){
+void func() {
     printf("Hello World");
 }
-int main()
-{
+int main() {
     func();
     return 0;
 }
