@@ -5,9 +5,8 @@
 
 支持 Otne 语法、Tbox 语法、Pitaya 语法
 
-[x] Lexer
-
-[x] Compier
+- [ ] Lexer
+- [ ] Compier
 
 
 ## demo.pitaya / demo.otne / demo.tbox
